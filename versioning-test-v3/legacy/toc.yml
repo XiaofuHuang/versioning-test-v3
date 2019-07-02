@@ -1,0 +1,21 @@
+- name: Versioning Test For Legacy version
+  href: index.md
+- name: Overview
+  items:
+  - name: Overview
+    href: overview.md
+- name: Quickstarts
+  expanded: true
+  items:
+  - name: Quick Start 1
+    href: quickstarts/quick-start-1.md
+  - name: Quick Start 2
+    href: quickstarts/quick-start-2.md
+- name: Resources
+  items:
+  - name: Resource
+    href: resources/resource.md
+- name: Fallback
+  items:
+  - name: Fallback
+    href: fallback.md
