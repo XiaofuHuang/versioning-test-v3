@@ -36,6 +36,14 @@
         ],
         "group": "active",
         "src": "active"
+      },
+      {
+        "files": [
+          "toc.yml",
+          "fallback.md"
+        ],
+        "group": "latest",
+        "src": "latest"
       }
     ],
     "resource": [
@@ -79,10 +87,14 @@
       "legacy": {
         "dest": "legacy",
         "moniker_range": "< test-client-2.0"
-      }, 
+      },
       "active": {
         "dest": "active",
         "moniker_range": ">= test-client-2.0 || test-server-1.0 || test-server-2.0"
+      },
+      "latest": {
+        "dest": "latest",
+        "moniker_range": "test-server-3.0 || test-server-4.0"
       }
     }
   }
