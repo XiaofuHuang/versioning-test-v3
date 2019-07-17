@@ -1,5 +1,5 @@
 ---
-monikerRange: 'test-client-2.0 || test-server-1.0'
+monikerRange: 'test-client-2.0'
 ---
 
 # Fallback (Active)!
