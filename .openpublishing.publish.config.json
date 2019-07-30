@@ -2,9 +2,9 @@
   "build_entry_point": "docs",
   "docsets_to_publish": [
     {
-      "docset_name": "versioning-test-v3",
+      "docset_name": "versioning-test-v3-jipe",
       "build_source_folder": "versioning-test-v3",
-      "build_output_subfolder": "versioning-test-v3",
+      "build_output_subfolder": "versioning-test-v3-jipe",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [
